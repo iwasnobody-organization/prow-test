@@ -1,2 +1,2 @@
 # prow-test
-version 2
+version 3
